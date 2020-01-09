@@ -1,0 +1,15 @@
+{
+  "name": "dt",
+  "version": "1.0.0",
+  "description": "Install module puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.11",
+    "puppeteer": "^2.0.0"
+  }
+}
